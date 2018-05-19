@@ -1,0 +1,17 @@
+.bg-primary {
+    padding: 6px;
+}
+
+.panel {
+    border-radius: unset;
+    margin-bottom: unset;
+}
+
+.panel>.panel-heading {
+    border-radius: unset;
+}
+
+.sidebar ul li a.active {
+    background:#428bd2;
+    color: #fff;
+}
